@@ -1,0 +1,6 @@
+{
+  "name": "Jornada do Programador IA",
+  "description": "Uma página de conversão em formato de onboarding gamificado para ensinar programação com IA e oferecer ferramentas e cursos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
